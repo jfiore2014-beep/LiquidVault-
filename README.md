@@ -1,6 +1,1 @@
-🛡️ Liquid Vault
-AES-256 encryption.  
-AES-256: Strong security.  
-Auto-Shred: Deletes source. 
-Hey this is not a ransomware and if you forget your password to the 
-encrypted file your cooked and i am not responsible for it. and this was made in C# net framework 4.0 so bye guys!!!!
+🛡️ Liquid Vault v1.1Next-Gen AES-256 File Security SystemLiquid Vault is a high-performance utility designed to provide military-grade file protection through AES-256 bit encryption. It features a custom terminal-inspired interface for real-time cryptographic monitoring.🛠️ Technical OverviewFeatureSpecificationEncryption AlgorithmAES-256 (Advanced Encryption Standard)Key DerivationSHA-256 Password HashingInterfaceLow-latency Consolas Terminal LogFrameworkC# .NET Framework 4.0🚀 Key FeaturesMilitary-Grade Security: Utilizes unbreachable AES-256 bit encryption logic.Signature Verification: Injects a unique LIQUIDVAULT signature to prevent data corruption.Auto-Shred Logic: Automatically wipes the unencrypted source file for maximum privacy.Terminal UI: Integrated read-only log window for process transparency.📜 Professional Disclaimer[!IMPORTANT]This is NOT ransomware. This is a personal privacy tool. If you forget your password, the data is mathematically unrecoverable. Your files will be "cooked," and the developer holds no responsibility for lost keys or data. Use with caution.📦 InstallationNavigate to the Releases tab on the right.Download the latest LiquidVault.exe.Ensure you have .NET Framework 4.0+ installed.
